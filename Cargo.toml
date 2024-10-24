@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [lib]
-name = "name_sphere_rs"
+name = "name_sphere"
 
 [[bin]]
 name = "name_sphere"

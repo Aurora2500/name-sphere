@@ -1,5 +1,10 @@
-pub enum Class {
+pub enum Type {
 	A,
-	CNAME,
-	MX,
+	Aaaa,
+	Cname,
+	Mx,
+}
+
+pub enum Class {
+	In,
 }
